@@ -59,13 +59,13 @@ export const Services: React.FC = () => {
       title: "Cotton Seeding",
       description: "Expert cotton cultivation with modern tools and traditional knowledge.",
       icon: <PlaneTakeoff className="h-5 w-5" />,
-      imageSrc: "src/assets/images/cotton.jpg"
+      imageSrc: "/images/cotton.jpg"
     },
     {
       title: "Agricultural Consultation",
       description: "Professional guidance on farming practices, livestock management, and crop selection.",
       icon: <BookOpen className="h-5 w-5" />,
-      imageSrc: "src/assets/images/consulatation.jpg"
+      imageSrc: "/images/consulatation.jpg"
     }
   ];
 

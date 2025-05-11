@@ -6,18 +6,18 @@ export const Gallery: React.FC = () => {
 
   const galleryImages = [
     {
-      src: "src/assets/images/farmhamza.jpg",
+      src: "/images/farmhamza.jpg",
 
       alt: "Farm field at sunset",
       category: "farm"
     },
     {
-      src: "src/assets/images/cattlefarm.jpg",
+      src: "/images/cattlefarm.jpg",
       alt: "Healthy young calf raised on a clean farm, known for tender and premium quality meat.",
       category: "livestock"
     },
     {
-      src: "src/assets/images/horse.jpg",
+      src: "/images/horse.jpg",
       alt: "Beautiful horse in the field",
       category: "livestock"
     },
